@@ -29,6 +29,5 @@ public class PizzaParty {
         System.out.print(numPeople+" people with "+numPizzas+" pizzas ("+totalSlices+" slices)\n");
         System.out.print("Each person gets "+ SlicesPerPerson+ " slices of pizza\n");
         System.out.print("There are "+ SlicesLeft+ " slices left");
-
     }
 }
